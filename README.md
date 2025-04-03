@@ -87,7 +87,3 @@ A secure web application that allows users to upload a picture of their yard or 
    ```
    npm start
    ```
-
-## License
-
-[MIT](LICENSE) 
